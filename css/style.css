@@ -511,7 +511,8 @@ mark,
 
 .img-fluid {
   max-width: 100%;
-  height: auto;
+  max-height: 275px;
+  align-items: center;
 }
 
 .img-thumbnail {
@@ -11113,4 +11114,56 @@ header.masthead h1 {
 
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
+}
+
+.team-image {
+  height: 550px;
+}
+
+#img-roxana {
+  background-image: url('../assets/img/portfolio/thumbnails/roxana.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+#img-alex {
+  background-image: url('../assets/img/portfolio/thumbnails/alex.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+#img-alexandra {
+  background-image: url('../assets/img/portfolio/thumbnails/alexandra.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+#img-catalin {
+  background-image: url('../assets/img/portfolio/thumbnails/catalin.png');
+  background-size: cover;
+  background-position: center;
+}
+
+#img-denisa {
+  background-image: url('../assets/img/portfolio/thumbnails/denisa.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+#img-fara {
+  background-image: url('../assets/img/portfolio/thumbnails/fara.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+#img-mada {
+  background-image: url('../assets/img/portfolio/thumbnails/mada.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+#img-melisa {
+  background-image: url('../assets/img/portfolio/thumbnails/melisa.jpg');
+  background-size: cover;
+  background-position: center;
 }
